@@ -229,7 +229,7 @@ export const campRam: CampsiteConfig = {
     telHref: "tel:+436603849495",
     mail: "info@camp-ram.at",
     adresse: "Gries 53 · 9863 Rennweg am Katschberg · Kärnten",
-    coords: { lat: 47.032308, lng: 13.595175 },
+    coords: { lat: 47.032319, lng: 13.595171 },
   },
 
   languages: ["DE"],
