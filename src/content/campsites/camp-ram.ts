@@ -122,7 +122,7 @@ export const campRam: CampsiteConfig = {
       {
         title: "Eselpark Maltatal",
         text: "Der Eselpark im Maltatal ist ein besonderes Erlebnis für die ganze Familie — Tiere zum Staunen und Streicheln.",
-        image: { src: `${IMG}/eselpark-maltatal.webp`, alt: "Mutter und Kind bei den Alpakas im Eselpark Maltatal" },
+        image: { src: `${IMG}/eselpark-maltatal-eselfamilie.webp`, alt: "Familie streichelt Esel im Eselpark Maltatal" },
       },
       {
         title: "Wasserabenteuerpark Fallbach",
