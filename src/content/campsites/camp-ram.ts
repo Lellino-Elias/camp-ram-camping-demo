@@ -38,12 +38,12 @@ export const campRam: CampsiteConfig = {
   pillars: [
     {
       title: "Mitten in den Bergen",
-      text: "Ruhig am Ortsrand von Rennweg, eingebettet in die Bergwelt der Region Katschberg-Lieser-Maltatal — umgeben von Wiesen und mit Blick auf die Alpen.",
+      text: "Ruhig am Ortsrand von Rennweg, eingebettet in die Bergwelt — umgeben von Wiesen und mit Blick auf die Alpen.",
       image: { src: `${IMG}/blick-rennweg-sommer.webp`, alt: "Blick auf Rennweg und das umliegende Bergtal im Sommer" },
     },
     {
       title: "Sommer aktiv",
-      text: "Wandern, Rad- und E-Bike-Touren oder Ausflüge starten direkt vom Campingplatz aus — in den Bergen und Tälern rund um den Katschberg.",
+      text: "Wandern, Rad- und E-Bike-Touren starten direkt vom Campingplatz — in den Bergen und Tälern rund um den Katschberg.",
       image: { src: `${IMG}/wandern-maltatal.webp`, alt: "Wanderin mit Blick auf einen Bergsee im Maltatal" },
     },
     {
@@ -88,7 +88,7 @@ export const campRam: CampsiteConfig = {
     features: [
       {
         title: "Eingebettet in die Bergwelt",
-        text: "Ruhig am Ortsrand von Rennweg gelegen — nur rund 4 km von der Tauernautobahn (A10) und doch abseits des Verkehrs, umgeben von Wiesen und Bergen.",
+        text: "Nur 4 km von der Tauernautobahn (A10) und doch ruhig am Ortsrand von Rennweg — umgeben von Wiesen und Bergen.",
         image: { src: `${IMG}/lage-rennweg-luftaufnahme.webp`, alt: "Luftaufnahme von Rennweg mit Campingplatz, Tennisplatz und Schwimmbad" },
       },
       {
@@ -98,12 +98,12 @@ export const campRam: CampsiteConfig = {
       },
       {
         title: "Spülraum & eigenes Quellwasser",
-        text: "Spülraum, Waschmaschine, Trockner und Skiraum sowie Trinkwasserstellen am ganzen Platz — mit bestem Trinkwasser aus eigener Quelle.",
+        text: "Spülraum, Waschmaschine, Trockner und Skiraum — Trinkwasserstellen am ganzen Platz mit Wasser aus eigener Quelle.",
         image: { src: `${IMG}/spuelraum.webp`, alt: "Spülraum mit Edelstahl-Spülbecken am Campingplatz" },
       },
       {
         title: "Abendküche zum Mitnehmen",
-        text: "Keine Lust zu kochen? Ab 18:00 Uhr gibt es Take-away direkt am Platz — Burger, Pommes, Salate, Snacks und mehr, auf Wunsch per WhatsApp vorbestellt.",
+        text: "Ab 18:00 Uhr gibt es Take-away am Platz — Burger, Pommes, Salate und Snacks, auf Wunsch per WhatsApp vorbestellt.",
         image: { src: `${IMG}/take-away-abendkueche.webp`, alt: "Frisch zubereitetes Gericht aus der Take-away-Küche" },
       },
     ],
@@ -159,7 +159,7 @@ export const campRam: CampsiteConfig = {
       },
       {
         title: "Katschberger Adventweg",
-        text: "Durch verschneite Wälder, vorbei an festlich geschmückten Stationen und Hütten mit regionalen Schmankerln — Weihnachtszauber am Katschberg.",
+        text: "Durch verschneite Wälder und an festlich geschmückten Hütten mit regionalen Schmankerln vorbei — Weihnachtszauber am Katschberg.",
         image: { src: `${IMG}/adventweg-katschberg.webp`, alt: "Festlich beleuchtete Almhütte am Katschberger Adventweg" },
       },
       {
